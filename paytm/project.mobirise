@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "paytm",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -58,11 +58,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Paytm.com | Recharge, Utility, Dish, Internet",
+        "meta_descr": "Paytm Hidden Rewards and Offers",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/screenshot_2020-09-23%20paytm%20logo%20-%20google%20search-131x42.png"
       },
       "components": [
         {
